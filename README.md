@@ -2,7 +2,7 @@
 
 ## Description
 
-Book search is a full stack MERN application.  Allowing users to search for any related book using the Google Books API.  Users can create an account that provides access to save books along with a user-friendly dashboard.
+Book search is a full stack MERN application.  Allowing users to search for any related book using the Google Books API.  Users can create an account, log in, search for books, add to them to their account, and delete books.
 
 ## Technologies Used
 
@@ -16,13 +16,13 @@ Book search is a full stack MERN application.  Allowing users to search for any 
 
 ## Installation
 
-Clone the repo and rum `npm install` from the root directory.  Run `npm start` and navigate to localhost:3000 in your browser to open the application locally.
+Clone the repo and run `npm install` from the root directory.  Run `npm start` and navigate to localhost:3000 in your browser to open the application locally.
 
 ## GitHub Repo and Deployed Link
 
 [Link to Github](https://github.com/adambowers09/book-search)
 
-[Link to Heroku]()
+[Link to Heroku](https://booksearch-engine-1990.herokuapp.com)
 
 ## Screenshots
 
